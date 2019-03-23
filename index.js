@@ -1,4 +1,4 @@
 
 function name()
-    //implemented 
-    
+    // implemented new 
+console.log("Hello world") //changes made
